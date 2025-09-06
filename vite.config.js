@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "iPhone-15-clone",
+  base: "/iPhone-15-clone",
 })
